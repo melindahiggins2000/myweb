@@ -6,7 +6,7 @@ publishDir = "docs"
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://github.com/melindahiggins2000/myweb/"
+baseurl = "http://rladiesatlmyweb.netlify.com/"
 
 # Title of your site
 title = "My New Academic Website"
